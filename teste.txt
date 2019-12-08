@@ -19,4 +19,11 @@ Modified	- Arquivos que tiveral alguma alteração
 Staged		- Arquivos preparados após git add para serem comitados
 Commited	- Arquivos consolidados (sincronizados) no repositorio
 
+
+Conjunto de comandos para sincronizar o gitHUB:
+Comandos que conseguiram fazer o commit para o repositrio no GitHUB:
+git reset --mixed origin/master
+git add .
+git commit -m "This is a new commit for what I originally planned to be an amendmend"
+git push origin master
 git diff	- Exibe as diferenças entre commits e branchs

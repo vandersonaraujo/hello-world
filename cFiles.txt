@@ -2,11 +2,10 @@ Arquivo cFiles.txt
 ########################################################
 # cFiles.txt - Controle de parametros
 #
-# Nomeclatura: JBOSS
-# Variaveis: Estaticas e dinamicas
-# Plataforma: Windows
-# Sistma de Arquivos: NTFS
-# Memoria requirda: S.O. controlada
 #
 #########################################################
-
+Comandos que conseguiram fazer o commit para o repositrio no GitHUB:
+git reset --mixed origin/master
+git add .
+git commit -m "This is a new commit for what I originally planned to be an amendmend"
+git push origin master
