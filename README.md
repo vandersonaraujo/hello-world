@@ -1,2 +1,1 @@
-# hello-world
-Meu primeiro repositório
+ Arquivo de configuracao do Repositorio

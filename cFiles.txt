@@ -1,0 +1,12 @@
+Arquivo cFiles.txt
+########################################################
+# cFiles.txt - Controle de parametros
+#
+# Nomeclatura: JBOSS
+# Variaveis: Estaticas e dinamicas
+# Plataforma: Windows
+# Sistma de Arquivos: NTFS
+# Memoria requirda: S.O. controlada
+#
+#########################################################
+

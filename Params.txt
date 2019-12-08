@@ -1,0 +1,524 @@
+git branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit 
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+
+----------
+Estado dos arquivos no git
+Untracked 	- Arquivos recem criados (localmente) e não monitorados no git
+Modified	- Arquivos que tiveral alguma alteração
+Staged		- Arquivos preparados após git add para serem comitados
+Commited	- Arquivos consolidados (sincronizados) no repositorio
+
+git diff	- Exibe as diferenças entre commits e branchs
+git branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+
+----------
+Estado dos arquivos no git
+Untracked 	- Arquivos recem criados (localmente) e não monitorados no git
+Modified	- Arquivos que tiveral alguma alteração
+Staged		- Arquivos preparados após git add para serem comitados
+Commited	- Arquivos consolidados (sincronizados) no repositorio
+
+git diff	- Exibe as diferenças entre commits e branchsgit branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+
+----------
+Estado dos arquivos no git
+Untracked 	- Arquivos recem criados (localmente) e não monitorados no git
+Modified	- Arquivos que tiveral alguma alteração
+Staged		- Arquivos preparados após git add para serem comitados
+Commited	- Arquivos consolidados (sincronizados) no repositorio
+
+git diff	- Exibe as diferenças entre commits e branchsgit branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+
+----------
+Estado dos arquivos no git
+Untracked 	- Arquivos recem criados (localmente) e não monitorados no git
+Modified	- Arquivos que tiveral alguma alteração
+Staged		- Arquivos preparados após git add para serem comitados
+Commited	- Arquivos consolidados (sincronizados) no repositorio
+
+git diff	- Exibe as diferenças entre commits e branchsgit branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+
+----------
+Estado dos arquivos no git
+Untracked 	- Arquivos recem criados (localmente) e não monitorados no git
+Modified	- Arquivos que tiveral alguma alteração
+Staged		- Arquivos preparados após git add para serem comitados
+Commited	- Arquivos consolidados (sincronizados) no repositorio
+
+git diff	- Exibe as diferenças entre commits e branchsgit branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+
+----------
+Estado dos arquivos no git
+Untracked 	- Arquivos recem criados (localmente) e não monitorados no git
+Modified	- Arquivos que tiveral alguma alteração
+Staged		- Arquivos preparados após git add para serem comitados
+Commited	- Arquivos consolidados (sincronizados) no repositorio
+
+git diff	- Exibe as diferenças entre commits e branchsgit branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+
+----------
+Estado dos arquivos no git
+Untracked 	- Arquivos recem criados (localmente) e não monitorados no git
+Modified	- Arquivos que tiveral alguma alteração
+Staged		- Arquivos preparados após git add para serem comitados
+Commited	- Arquivos consolidados (sincronizados) no repositorio
+
+git diff	- Exibe as diferenças entre commits e branchsgit branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+
+----------
+Estado dos arquivos no git
+Untracked 	- Arquivos recem criados (localmente) e não monitorados no git
+Modified	- Arquivos que tiveral alguma alteração
+Staged		- Arquivos preparados após git add para serem comitados
+Commited	- Arquivos consolidados (sincronizados) no repositorio
+
+git diff	- Exibe as diferenças entre commits e branchsgit branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+
+----------
+Estado dos arquivos no git
+Untracked 	- Arquivos recem criados (localmente) e não monitorados no git
+Modified	- Arquivos que tiveral alguma alteração
+Staged		- Arquivos preparados após git add para serem comitados
+git branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+
+----------
+Estado dos arquivos no git
+Untracked 	- Arquivos recem criados (localmente) e não monitorados no git
+Modified	- Arquivos que tiveral alguma alteração
+Staged		- Arquivos preparados após git add para serem comitados
+git branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+
+----------
+Estado dos arquivos no git
+Untracked 	- Arquivos recem criados (localmente) e não monitorados no git
+Modified	- Arquivos que tiveral alguma alteração
+Staged		- Arquivos preparados após git add para serem comitados
+Commited	- Arquivos consolidados (sincronizados) no repositorio
+
+git diff	- Exibe as diferenças entre commits e branchsgit branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+
+----------
+Estado dos arquivos no git
+Untracked 	- Arquivos recem criados (localmente) e não monitorados no git
+Modified	- Arquivos que tiveral alguma alteração
+Staged		- Arquivos preparados após git add para serem comitados
+Commited	- Arquivos consolidados (sincronizados) no repositorio
+git branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+
+----------
+Estado dos arquivos no git
+Untracked 	- Arquivos recem criados (localmente) e não monitorados no git
+git branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+
+----------
+Estado dos arquivos no git
+Untracked 	- Arquivos recem criados (localmente) e não monitorados no git
+Modified	- Arquivos que tiveral alguma alteração
+Staged		- Arquivos preparados após git add para serem comitados
+Commited	- Arquivos consolidados (sincronizados) no repositorio
+
+git diff	- Exibe as diferenças entre commits e branchsgit branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+
+git branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+
+----------
+Estado dos arquivos no git
+git branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+git branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+
+----------
+Estado dos arquivos no git
+Untracked 	- Arquivos recem criados (localmente) e não monitorados no git
+Modified	- Arquivos que tiveral alguma alteração
+Staged		- Arquivos preparados após git add para serem comitados
+Commited	- Arquivos consolidados (sincronizados) no repositorio
+git branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+
+----------
+Estado dos arquivos no git
+git branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+
+----------
+Estado dos arquivos no git
+Untracked 	- Arquivos recem criados (localmente) e não monitorados no git
+Modified	- Arquivos que tiveral alguma alteração
+git branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+
+----------
+Estado dos arquivos no git
+git branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+
+----------
+Estado dos arquivos no git
+git branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+git branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+
+----------
+Estado dos arquivos no git
+Untracked 	- Arquivos recem criados (localmente) e não monitorados no git
+Modified	- Arquivos que tiveral alguma alteração
+Staged		- Arquivos preparados após git add para serem comitados
+Commited	- Arquivos consolidados (sincronizados) no repositorio
+
+git diff	- Exibe as diferenças entre commits e branchsgit branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+
+----------
+Estado dos arquivos no git
+Untracked 	- Arquivos recem criados (localmente) e não monitorados no git
+Modified	- Arquivos que tiveral alguma alteração
+git branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+
+----------
+Estado dos arquivos no git
+Untracked 	- Arquivos recem criados (localmente) e não monitorados no git
+Modified	- Arquivos que tiveral alguma alteração
+Staged		- Arquivos preparados após git add para serem comitados
+Commited	- Arquivos consolidados (sincronizados) no repositorio
+
+git diff	- Exibe as diferenças entre commits e branchsgit branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+
+----------
+Estado dos arquivos no git
+Untracked 	- Arquivos recem criados (localmente) e não monitorados no git
+Modified	- Arquivos que tiveral alguma alteração
+git branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+
+----------
+Estado dos arquivos no git
+Untracked 	- Arquivos recem criados (localmente) e não monitorados no git
+git branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git branch <nome> cria um ramo
+git checkout <nome do ramo> vai para aquele ramo
+git commit  / faz commit
+git merge <nome do ramo que eu quero receber> para juntar dois em um . Tenho que estar no ramo princpal
+git rebase <nome do ramo> cria um merge sequencial
+
+git status - ver o status do repositrio git
+git log mostra os ultimos commits feitos
+git add <nome do arquivo> | . adiciona arquivos ao commit
+git commit
+git push - envia os arquivos para o repositorio - tem de verificar esta parte. Como sincronizar um repo local para o GitHub / como cincronizar o repositorio do Github para local. Ver parte da autenticação SSH
+git checkout --<arquivo> volta o status anterior
+
+----------
+Estado dos arquivos no git
+Untracked 	- Arquivos recem criados (localmente) e não monitorados no git
+Modified	- Arquivos que tiveral alguma alteração
+Staged		- Arquivos preparados após git add para serem comitados
+Commited	- Arquivos consolidados (sincronizados) no repositorio
+
+git diff	- Exibe as diferenças entre commits e branchs
