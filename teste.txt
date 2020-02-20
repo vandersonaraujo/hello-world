@@ -27,3 +27,6 @@ git add .
 git commit -m "This is a new commit for what I originally planned to be an amendmend"
 git push origin master
 git diff	- Exibe as diferenças entre commits e branchs
+
+Alteracao em 20.02.2020
+teste de git
